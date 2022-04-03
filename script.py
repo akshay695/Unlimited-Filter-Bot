@@ -2,62 +2,47 @@ class Script(object):
 
     START_MSG = """<b>Hy {},
 
-My name is Nicky 🕵️
+My name is 𝗡𝗶𝗰𝗸𝘆 🕵️
 There is no practical limits for my filtering capacity
 """
 
 
     HELP_MSG = """
-<i>Add me as admin in your group and start filtering :)</i>
+<i>𝐀𝐝𝐝 𝐦𝐞 𝐚𝐬 𝐚𝐝𝐦𝐢𝐧 𝐢𝐧 𝐲𝐨𝐮𝐫 𝐠𝐫𝐨𝐮𝐩 𝐚𝐧𝐝 𝐬𝐭𝐚𝐫𝐭 𝐟𝐢𝐥𝐭𝐞𝐫𝐢𝐧𝐠</i>
 
 
-🔰<b>Basic Commands</b>🔰
-
-👉/start - Check if I'm alive!
-👉/help - Command help
-👉/about - Something about me!
+𝗡𝗶𝗰𝗸𝘆 𝗰𝗼𝗺𝗺𝗮𝗻𝗱𝘀
+/start - Check Whether I'm Online 💯
+/about - About Meh! 🥱
 
 
-🔰<b>Filter Commands</b>🔰
+𝗙𝗶𝗹𝘁𝗲𝗿𝘀
+/add   - Add a filter 
+/viewfilters - List of all the filters of a chat
+/del  - Delete the specified filter
+/delall - Delete the whole filters in a chat (chat owner only)
 
-👉<code>/add name reply</code>  -  Add filter for name
+𝗖𝗼𝗻𝗻𝗲𝗰𝘁𝗶𝗼𝗻𝘀
+/connect  - Connect a particular chat to your PM
+/disconnect  - Disconnect from a chat
+/connections - List of all your connections
 
-👉<code>/del name</code>  -  Delete filter
+𝗨𝘁𝗶𝗹𝗶𝘁𝗶𝗲𝘀
+/id - To get the chat id
+/info  or reply to any message - To get the whois info of a user
 
-👉<code>/delall</code>  -  Delete entire filters (Group Owner Only!)
-
-👉<code>/viewfilters</code>  -  List all filters in chat
-
-
-🔰<b>Connection Commands</b>🔰
-
-👉<code>/connect groupid</code>  -  Connect your group to my PM. You can also simply use,
-👉<code>/connect</code> in groups.
-
-👉<code>/connections</code>  -  Manage your connections.
-
-
-🔰<b>Extras;</b>🔰
-
-👉/status  -  Shows current status of your bot (Auth User Only)
-
-👉/id  -  Shows ID information
-
-👉<code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
-
-
-<b>👻@Akshaymh17</b>
+<b>𝗖𝗿𝗲𝗮𝘁𝗼𝗿: @MyGroupUpdate</b>
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : Nicky Bot</b>
+    ABOUT_MSG = """<b>My Name : Nicky Bot</b>
 
-⭕️<b>Creater :</b> @Akshaymh17    
+<b>Creater :</b> @Akshaymh17    
 
-⭕️<b>Language :</b> <code>Python3</code>
+<b>Language :</b> <code>Python3</code>
 
-⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
+<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
 
-👥<b>Movie Group :</b> <a href='https://t.me/+CG7AQS6IfUNhYTNl/'>Check</a> 
+<b>Movie Group :</b> <a href='https://t.me/MyGroupUpdate'>Checking</a> 
 
 """
