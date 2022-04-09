@@ -243,7 +243,7 @@ async def help(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Filter bot 2", url="http://t.me/NickyXbot"),
+                    InlineKeyboardButton("Filter bot 2", url="http://t.me/Sinamika_Bot"),
                     InlineKeyboardButton("About Me", callback_data="about_data")
                 ],
                 [
