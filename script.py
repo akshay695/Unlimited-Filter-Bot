@@ -13,6 +13,7 @@ There is no practical limits for my filtering capacity
 
 𝗡𝗶𝗰𝗸𝘆 𝗰𝗼𝗺𝗺𝗮𝗻𝗱𝘀
 /start - Check Whether I'm Online 💯
+/about - About Meh! 🥱
 
 𝗙𝗶𝗹𝘁𝗲𝗿𝘀
 /add   - Add a filter 
