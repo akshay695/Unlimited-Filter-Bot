@@ -2,7 +2,7 @@ class Script(object):
 
     START_MSG = """<b>Hy {},
 
-My name is Sinamika 🕵️
+My name is Nicky 🕵️
 There is no practical limits for my filtering capacity
 """
 
@@ -34,7 +34,7 @@ There is no practical limits for my filtering capacity
 """
 
 
-    ABOUT_MSG = """<b>My Name : Sinamika Bot</b>
+    ABOUT_MSG = """<b>My Name : Nicky Bot</b>
 
 <b>Creater :</b> @Akshaymh17    
 
